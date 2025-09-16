@@ -23,12 +23,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub:
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
-
----
-
 ## ✨ Projetos em destaque:
 - 💰 **App de Gestão Financeira** – Projeto de faculdade para controle de gastos e metas  
 - 📊 **Sistema de controle de pagamentos** – Organização financeira pessoal  
